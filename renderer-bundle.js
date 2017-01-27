@@ -86,7 +86,7 @@
 
 	var API_KEY = "AIzaSyA4BQKgSPoPIVTFQgMj61gjrdfkgonsAUg";
 
-	//it works :) 
+	//it worfgks :) 
 
 	var App = function (_Component) {
 	    _inherits(App, _Component);
